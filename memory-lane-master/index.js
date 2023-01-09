@@ -1,9 +1,11 @@
 
 var maindiv=""
-addEventListener('DOMContentLoaded', (event) => {
-  const element = document.getElementById("img");
+function rem(params) {
   maindiv = $('#img').clone(true); //Save the form
   $('#img').remove();
+}
+addEventListener('DOMContentLoaded', (event) => {
+ rem();
 });
 
   
@@ -49,7 +51,9 @@ var a=[ {date:"to  ",place:"be",event:'continued...'},
       document.querySelector("#player").play()
       dynamicText()
       
-
     }
-
+    var audio1 = document.getElementById("player");
+    audio1.onended = function() {
+      window.location.href="../index.html"
+    };
  
