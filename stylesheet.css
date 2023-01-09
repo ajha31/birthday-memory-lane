@@ -1313,7 +1313,6 @@ audio {
 			height: 83px;
 			background-repeat: no-repeat no-repeat;
 			background-size: 50px 83px;
-			overflow: hidden;
 		}
 		.balloons h2 {
 			text-transform: uppercase;
