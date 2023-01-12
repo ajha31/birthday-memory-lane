@@ -28,7 +28,7 @@ var a=[ {date:"to  ",place:"be",event:'continued...'},
         var b=document.getElementById('label')
         var i=10;
         b.innerHTML=`<ul><li>${a[i].date}</li><li>${a[i].place}</li><li>${a[i].event}</li><ul>`;
-        var id = setInterval(frame, 10000);
+        var id = setInterval(frame, 20000);
         function frame() {
           if (i == 0) {
             clearInterval(id);
@@ -37,7 +37,7 @@ var a=[ {date:"to  ",place:"be",event:'continued...'},
             b.innerHTML=`<ul><li>${a[i].date}</li><li>${a[i].place}</li><li>${a[i].event}</li><ul>`;
           } 
         }
-      }, 4000);
+      }, 3000);
     }
 
 
@@ -52,8 +52,8 @@ var a=[ {date:"to  ",place:"be",event:'continued...'},
       dynamicText()
       
     }
-    var audio1 = document.getElementById("player");
-    audio1.onended = function() {
-      window.location.href="../index.html"
+     var audio1 = document.getElementById("player");
+     audio1.onended = function() {
+       window.location.href="../index.html"
     };
  
