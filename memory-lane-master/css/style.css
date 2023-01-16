@@ -64,11 +64,12 @@ ul{
     height: 256px;
     margin-top: 9px;
     margin-left: 11px;
-    background-image: url('../PHOTOS/ARHFinal.jpg');
+    background-image: url('../PHOTOS/VIC1.jpg');
     background-size: 100% 100%;
     animation: image 200s linear 1 ;
     animation-delay: 1s;
     animation-direction: reverse;
+    
 }
 
 .city1{
@@ -100,7 +101,7 @@ ul{
 .preloader{
     width: 285px;
     height: 256px;
-    background-image: url('../PHOTOS/ARHFinal.jpg');
+    background-image: url('../PHOTOs/VIC1.jpg');
     background-size: 285px 256px;
     animation: image 2s linear 1;
     visibility: hidden;
@@ -206,70 +207,67 @@ ul{
     }
 
     60%{
-        background-image: url('../PHOTOS/Orkfarewell1.jpg');  
-    }
-    62%{
-        background-image: url('../PHOTOS/Orkfarewell2.jpg');  
-    }
-    64%{
-        background-image: url('../PHOTOS/Orkfarewell3.jpg')  
-    }
-    66%{
-        background-image: url('../PHOTOS/Orkfarewell4.jpg')  
-    }
-    68%{
-        background-image: url('../PHOTOS/Orkfarewell5.jpg')  
-    }
-
-    70%{
         background-image: url('../PHOTOS/Diwali1.jpg');  
     }
-    72%{
-        background-image: url('../PHOTOS/Diwali2.jpg');  
+    62%{
+        background-image: url('../PHOTOS/Diwali2.jpg');   
     }
-    74%{
-        background-image: url('../PHOTOS/Diwali3.jpg');  
+    64%{
+        background-image: url('../PHOTOS/Diwali3.jpg'); 
     }
-    76%{
+    66%{
         background-image: url('../PHOTOS/Diwali4.jpg');  
     }
-    78%{
+    68%{
         background-image: url('../PHOTOS/Diwali5.jpg');  
     }
 
-   
-
-    80%{
+    70%{
         background-image: url('../PHOTOS/ClientV2\ 1.jpg')  
     }
-    82%{
+    72%{
         background-image: url('../PHOTOS/ClientV2\ 2.jpg')  
     }
-    84%{
-        background-image: url('../PHOTOS/ClientV2\ 3.jpg')  
+    74%{
+        background-image: url('../PHOTOS/ClientV2\ 3.jpg') 
     }
-    86%{
-        background-image: url('../PHOTOS/ClientV2\ 4.jpg')  
+    76%{
+        background-image: url('../PHOTOS/ClientV2\ 4.jpg')
     }
-    88%{
+    78%{
         background-image: url('../PHOTOS/ClientV2\ 5.jpg')  
     }
 
-
-    90%{
+    80%{
         background-image: url('../PHOTOS/ARHFirst.jpg')   
     }
-    92%{
+    82%{
         background-image: url('../PHOTOS/ARH2.jpg')  
     }
-    94%{
+    84%{
         background-image: url('../PHOTOS/ARH3.jpg')  
     }
-    96%{
+    86%{
         background-image: url('../PHOTOS/ARH4.jpg')  
     }
-    98%{
+    88%{
         background-image: url('../PHOTOS/ARHFinal.jpg')
+    }
+
+    90%{
+        background-image: url('../PHOTOS/vic5.jpg')   
+    }
+    92%{
+        background-image: url('../PHOTOS/vic4.jpg')  
+    }
+    94%{
+        background-image: url('../PHOTOS/vic3.jpg')  
+    }
+    96%{
+        background-image: url('../PHOTOS/vic2.jpg')  
+    }
+    98%{
+        background-image: url('../PHOTOS/VIC1.jpg')
     }
 }
 @media(max-width:600px){

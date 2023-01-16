@@ -16,10 +16,10 @@ var a=[ {date:"to  ",place:"be",event:'continued...'},
         {date:"29/09/22",place:"Candoor compound" ,event:'durga puja celebration'},
         {date:"04/10/22",place:"Sukanya House" ,event:'Nawmi'},
         {date:"14/10/22",place:"Bongs",event:'Meetup with Priyanka di' },
-        {date:"18/10/22",place:"Office Canteen",event:"Oark's farewell" },
         {date:"21/10/22",place:"office ground",event:'diwali celebration' },
         {date:"08/11/22",place:"Pride Plaza" ,event:'2nd Client visit'},
         {date:"31/03/22",place:"ahritolla",event:"New year's Eve" },
+        {date:"14/01/23",place:"Victoria Memorial",event:"Date" },
         
     ]
     //dynamic text changes
