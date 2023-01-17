@@ -9,16 +9,16 @@ addEventListener('DOMContentLoaded', (event) => {
 });
 
   
-var a=[ {date:"to  ",place:"be",event:'continued...'},
+var a=[ {date:"To  ",place:"Be",event:'Continued...'},
         {date:"21/04/22",place:"Novotel",event:'first Client visit' },
         {date:"01/05/22",place:"Dada bouidi",event:'first lunch together'},
-        {date:"29/07/22",place:"Bongs" ,event:'Chapter 1 begins :)'},
-        {date:"29/09/22",place:"Candoor compound" ,event:'durga puja celebration'},
+        {date:"29/07/22",place:"Bongs" ,event:'Chapter 1 Begins :)'},
+        {date:"29/09/22",place:"Candor Compound" ,event:'Durga Puja Celebration'},
         {date:"04/10/22",place:"Sukanya House" ,event:'Nawmi'},
-        {date:"14/10/22",place:"Bongs",event:'Meetup with Priyanka di' },
-        {date:"21/10/22",place:"office ground",event:'diwali celebration' },
-        {date:"08/11/22",place:"Pride Plaza" ,event:'2nd Client visit'},
-        {date:"31/03/22",place:"ahritolla",event:"New year's Eve" },
+        {date:"14/10/22",place:"Bongs",event:'Meetup With Priyanka di' },
+        {date:"21/10/22",place:"Office Ground",event:'Diwali Celebration' },
+        {date:"08/11/22",place:"Pride Plaza" ,event:'2nd Client Visit'},
+        {date:"31/03/22",place:"Ahritolla",event:"New year's Eve" },
         {date:"14/01/23",place:"Victoria Memorial",event:"Date" },
         
     ]
