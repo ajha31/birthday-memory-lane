@@ -18,7 +18,7 @@ var a=[ {date:"To  ",place:"Be",event:'Continued...'},
         {date:"14/10/22",place:"Bongs",event:'Meetup With Priyanka di' },
         {date:"21/10/22",place:"Office Ground",event:'Diwali Celebration' },
         {date:"08/11/22",place:"Pride Plaza" ,event:'2nd Client Visit'},
-        {date:"31/01/22",place:"Ahritolla",event:"New year's Eve" },
+        {date:"31/12/22",place:"Ahritolla",event:"New year's Eve" },
         {date:"14/01/23",place:"Victoria Memorial",event:"Date" },
         
     ]
